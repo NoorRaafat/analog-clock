@@ -1,4 +1,4 @@
- :pushpin: # analog-clock
+ #  :pushpin: analog-clock
 ## Python Analog Clock
 This Python script creates a simple analog clock using OpenCV. It displays the current time with hour, minute, and second hands on a graphical interface.
 
