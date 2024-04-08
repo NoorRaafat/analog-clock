@@ -14,17 +14,13 @@ Installation
 Clone this repository to your local machine:
 
 ## bash
-## Copy code
-git clone https://github.com/your_username/analog-clock.git
+### If you want to make like that
 Install OpenCV if you haven't already:
 
-Copy code
 pip install opencv-python
-Usage
-Run the Python script:
 
-Copy code
 python analog_clock.py
+
 The clock window will appear showing the current time.
 
 To exit the clock, press 'q' on your keyboard.
@@ -32,10 +28,6 @@ To exit the clock, press 'q' on your keyboard.
 Customization
 You can customize the appearance of the clock by modifying the constants and colors in the constants.py file.
 
-Contributors
-Your Name
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
-Inspiration: [Link to any inspiration sources or credits]
+
+
